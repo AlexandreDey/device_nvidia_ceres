@@ -1,0 +1,10 @@
+# Import HTCs differences from the stock init.rc
+import init.endeavoru.htc.rc
+# Import HTCs init.endeavoru.common.rc
+import init.endeavoru.common.rc
+# Import HTCs init.endeavoru.usb.rc
+import init.endeavoru.usb.rc
+# Shared init between enrc2b/endeavoru
+import init.tegra3-common.rc
+# Our additions
+import init.endeavoru.cm.rc

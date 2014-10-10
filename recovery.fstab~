@@ -17,4 +17,4 @@
 /dev/block/platform/sdhci-tegra.3/by-name/MSC /misc emmc defaults recoveryonly
 /dev/block/platform/sdhci-tegra.3/by-name/ISD /sdcard vfat defaults recoveryonly
 /dev/block/platform/sdhci-tegra.2/by-num/p1   /external_sd auto defaults recoveryonly
-/dev/block/platform/sdhci-tegra.3/by-name/USP /staging  emmc defaults recoveryonly
+/dev/block/platform/sdhci-tegra.3/by-name/USP /staging  emmc recoveryonly
